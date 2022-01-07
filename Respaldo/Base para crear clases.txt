@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+     <head>
+
+	       <title>Nombre de la materia</title>
+           <link rel="shortcut icon" type="image/x-icon" href="imagenes/favicon.png">
+           <link rel="stylesheet" type="text/css" href="">
+     </head>
+
+     <body>
+           <header>
+           	  <div>
+
+           	<img src="imagenes/logo.png" width="155" height="50"> 
+           	  </div>
+           	  <nav>
+           	  	<ul>
+           	  		<li><a href="#">Inicio</a></li>
+           	  		<li><a href="#">Name</a></li>
+           	  	</ul>
+           	  </nav>
+           </header>
+
+           <section class="main" >
+                <section class="articles">
+                     <article>
+                          <h2>VIDEO DE CLASE</h2>
+                          <p>No hubo video clase</p>
+                          <img width="#">
+                     </article>
+                     
+                </section>
+
+                <aside>
+                   <h3>INFORMACION DE CLASE </h3> 
+                   <p><!--aqui va informacion de la materia--></p> 
+                </aside>
+           </section>
+
+           <footer>
+                <p>GRUPO 4GMI - APLANET"G" 2022</p>
+           </footer>
+
+
+
+
+           	 	
+           
+
+ </body>
+
+ </html>
