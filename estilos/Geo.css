@@ -5,18 +5,18 @@
 }
 
 body {
-     background:#18191A;
+     background:#e6e6e6;
 }
 
 header, .main, footer {
      
       width:90%;
       max-width:10000px;
-      margin:10px auto; 
+      margin:auto; 
 }
 
 header nav {
-     background:#242526 ;
+     background:#528FD5 ;
      overflow:hidden;
 }
 
@@ -31,12 +31,12 @@ header nav ul {
  header nav ul li a {
  	padding:10px 20px;
  	display:block;
- 	color: #fff; 
+ 	color: #fff;
  	text-decoration:none;
  }
 
  header nav ul li a:hover {
- 	background: #3A3B3C;
+ 	background: #75ACEC;
  }
 
  .main .articles {
@@ -45,9 +45,9 @@ header nav ul {
  	float: left;
  }
 
- .main .articles article { 
- 	padding: 10%;
- 	background: #242526;
+ .main .articles article {
+ 	padding: 20%;
+ 	background: #fff;
  	margin-bottom: 20px;
  }
 
@@ -61,7 +61,7 @@ header nav ul {
 
  footer {
  	background:#000 ;
- 	color: #fff(83, 14, 14);
+ 	color: #fff;
  	clear: both;
  	padding:10px 0px ;
  	text-align: center;
