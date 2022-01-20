@@ -1,13 +1,19 @@
 function ir(){
     
-var c=0000;
-var u="APLANET"; 
-   if(document.form.password.value==c && document.form.login.value==u){
+var u="APLANET";
+   if(document.form.login.value==u){
    alert ("BIENVENIDO ");
    window.location="Inicio.html";}
 
    else{
-   alert("Intente de nuevo");
+   alert("Por Tu Seguridad Es Nesesario Que Ingreses La Central Correctamente, Intentalo De Nuevo");
 }
+
+}
+
+function info(){
+
+   alert("Si No Sabes La Clave Puedes Preguntarle Al Jefe De Grupo o Puede Preguntar En WSP A Este Numero 6644054432")
+
 
 }

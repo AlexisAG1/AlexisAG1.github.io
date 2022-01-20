@@ -13,11 +13,13 @@ header, .main, footer {
       width:90%;
       max-width:10000px;
       margin:10px auto; 
+
 }
 
 header nav {
      background:#242526 ;
      overflow:hidden;
+
 }
 
 header nav ul {
@@ -25,39 +27,35 @@ header nav ul {
 }
  
  header nav ul li {
-      float:left;
+      text-align: center;
  }
 
- header nav ul li a {
+ header nav ul li p {
  	padding:10px 20px;
  	display:block;
  	color: #fff; 
  	text-decoration:none;
+	
  }
 
- header nav ul li a:hover {
- 	background: #3A3B3C;
- }
 
  .main .articles {
- 	width: 68.5%;
- 	margin-right:1.5% ;
- 	float: left;
+ 	width: 100%;
+	 color: #fff;
+	 bottom: center;
+
+ 	
+ 	
  }
 
  .main .articles article { 
  	padding: 10%;
  	background: #242526;
  	margin-bottom: 20px;
+	
  }
 
- aside {
- 	width: 30%;
- 	background: #E7EC74;
- 	float: left;
- 	padding: 20px;
- 	box-sizing:border-box ;
- }
+ 
 
  footer {
  	background:#000 ;
@@ -65,11 +63,54 @@ header nav ul {
  	clear: both;
  	padding:10px 0px ;
  	text-align: center;
+	color: #fff;
+ }
+.main .articles .ss {
+
+	text-align: center;
+ }
+
+ .info {
+     border: none;
+	 color: #fff;
+	 background-color:#242526 ;
+	 cursor: pointer;
+ }
+ .info:hover{
+background-color:#232425  ;
+
+ }
+
+ .boton {
+	 cursor: pointer;
+	 width: 100%;
+
 	
  }
- footer {
-	 color: #fff;
+
+ .label {
+	 font-size: 12px;
+	 display:block;
+	 width: 100%;
  }
+
+input, textarea {
+	margin-bottom: 15px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 0px solid #fff;
+}
+
+
+
+.boton:hover{
+	background: #4A88F4;
+}
+.boton{
+	background: #236ef0;
+}
+ 
 
 
 
