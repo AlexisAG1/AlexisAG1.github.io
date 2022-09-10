@@ -1,0 +1,57 @@
+.color{
+    color: rgb(255, 233, 32);
+    
+    }
+    
+    section .vid {
+        background:#181818 ;
+        overflow:hidden;
+    }
+    
+    section nav ul {
+      list-style:none ;
+    }
+    
+    
+    section nav  ul li {
+         float:center
+    }
+    
+    section nav ul li a {
+        padding: 1em 1.25em;
+        display:block;
+        color: #fff;
+        float:center;
+        text-decoration:none;}
+       
+        
+
+    .bordes{
+        border-radius: 10px;
+    
+    }
+    
+    .tdf{
+        color: bisque;
+    }
+    .perfil{
+        border-radius: 100px;
+    }
+
+    .op{
+        width: 100%;
+    }
+    .tags{
+        color: rgb(71, 135, 231);
+    }
+    .cpt{
+        color: bisque;
+    }
+    .si  .si:hover {
+        background: rgb(255, 233, 32);
+    }
+    .si{
+        background-color:#181818;
+    }
+        
+    

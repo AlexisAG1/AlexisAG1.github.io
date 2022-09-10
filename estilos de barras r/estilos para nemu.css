@@ -1,0 +1,36 @@
+.color{
+color: rgb(255, 233, 32);
+
+}
+
+section .vid {
+    background:#181818 ;
+    overflow:hidden;
+}
+
+section nav ul {
+  list-style:none ;
+}
+
+section .ty .vid a:hover {
+    background: rgb(255, 233, 32);
+}
+section nav  ul li {
+     float:center
+}
+
+section nav ul li a {
+    padding: 2em 1.25em;
+    display:block;
+    color: #fff;
+    text-decoration:none;}
+    
+
+section, .main, footer {
+    width:100%;
+    max-width: 87.5em;
+    margin: 0em auto; 
+}
+
+     
+    

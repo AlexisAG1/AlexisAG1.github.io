@@ -1,0 +1,75 @@
+.color{
+color: rgb(255, 233, 32);
+
+}
+
+section .vid {
+    background:#181818 ;
+    overflow:hidden;
+}
+
+section nav ul {
+  list-style:none ;
+}
+ 
+section{
+    right: 0;
+}
+    
+
+section .vid ul li a:hover {
+    background: rgb(255, 233, 32);
+}
+section nav  ul li {
+     float:center
+}
+
+section nav ul li a {
+    padding: 1em 1.25em;
+    display:block;
+    color: #fff;
+    float:center;
+    text-decoration:none;}
+   
+    
+
+section, .main, footer {
+    width:100%;
+    max-width: 87.5em;
+    margin: 0em auto; 
+}
+
+
+
+.main .articles {
+    width: 18.75em;
+    height: 0.625em;
+    float: center;
+    margin-top: 0.625em;
+}
+.main .articles article {
+    padding: 10%;
+    background: #18191A;
+    margin-bottom: 0.0625px;
+
+    
+}
+.bordes{
+    border-radius:0.625em;
+    width: 21.875em;
+    
+}
+
+.tdf{
+    color: bisque;
+     text-decoration: none;
+}
+.perfil{
+    border-radius: 6.25em;
+    width: 2.5em;
+}
+.color1{
+    color: rgb(255, 36, 36);
+}
+     
+    

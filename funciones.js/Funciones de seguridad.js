@@ -13,11 +13,11 @@ var u="G4001P";
 
 function info(){
 
-   alert("Si No Sabes El Codigo Puedes Preguntarle Al Jefe De Grupo o Pedir Informacion En El Grupo Local De Messenger!")
+   alert("Las denuncias por derechos de autor aun no estan disponibles!")
 
 
 }
 
 function how(){
-   alert("Puedes contribuir enviando tus tareas al numero que esta en la informacion MVP de la siguiente manera indicando el orden si son varias imagenes y numero de la tarea, recuerda que puedes pedir que se censure tu nombre  ")
+   alert("PARA VER ESTA IMAGEN SIN CENSURA PRIMERO DEBES SUSRIBIRTE A NUESTRA PAGINA")
 }
