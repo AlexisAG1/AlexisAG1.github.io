@@ -21,3 +21,8 @@ function info(){
 function how(){
    alert("PARA VER ESTA IMAGEN SIN CENSURA PRIMERO DEBES SUSRIBIRTE A NUESTRA PAGINA")
 }
+
+function suscripccion(){
+   alert("Las suscripcciones estaran disponibles pronto!")
+}
+
